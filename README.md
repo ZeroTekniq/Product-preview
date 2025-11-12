@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ZeroTekniq/Product-preview)
-- Live Site URL: [Add live site URL here](https://zerotekniq.github.io/Product-preview/)
+- Solution URL: [Solution URL here](https://github.com/ZeroTekniq/Product-preview)
+- Live Site URL: [Live site URL here](https://zerotekniq.github.io/Product-preview/)
 
 ## My process
 
