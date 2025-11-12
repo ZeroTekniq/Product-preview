@@ -1,0 +1,10 @@
+@media (min-width: 37.5rem) {
+    .grid {
+        --content-padding: 2rem;
+        grid-template-columns: 1fr 1fr;
+        justify-content: center;
+        align-items: center;
+    }
+        
+}
+    
